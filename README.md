@@ -34,3 +34,6 @@ If you want to continue training the model, add `--train_from (model path)/model
 ## Reference
 https://github.com/OpenNMT/OpenNMT-py
 =======
+
+# 한국컴퓨터정보학회 학술발표논문집
+# OpenNMT를 활용한 한글 존댓말 변환기의 구현
