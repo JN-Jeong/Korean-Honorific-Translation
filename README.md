@@ -34,5 +34,3 @@ If you want to continue training the model, add `--train_from (model path)/model
 ## Reference
 https://github.com/OpenNMT/OpenNMT-py
 =======
-# Korean-Honorific-Translation
->>>>>>> 47d31db6cf6dd13d15c30420408cafc2d8e4c503
